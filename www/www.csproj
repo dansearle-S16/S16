@@ -170,7 +170,6 @@
     <Content Include="Views\Web.config" />
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <None Include="Properties\PublishProfiles\BlockAndDeck-www - Web Deploy.pubxml" />
     <Content Include="Views\Web\ComingSoon.cshtml" />
   </ItemGroup>
   <ItemGroup>
@@ -178,6 +177,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="Properties\PublishProfiles\S16-www - Web Deploy.pubxml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
